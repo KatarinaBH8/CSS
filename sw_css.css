@@ -1,0 +1,36 @@
+h1 {
+    color: rgb(38, 169, 108);
+    background-color: rgb(237, 250, 244);
+    font-size: 35px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: rgb(95, 168, 211);
+    background-color: rgba(95, 168, 211, 0.06);
+    font-size: 22px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    background-color: rgb(253, 253, 253);
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-size: 18px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.menu { /*class */
+    color: rgb(233, 245, 252);
+    background:rgb(27, 73, 101);
+}
+
+#menu-links {
+    background: rgb(189, 200, 207);
+}
+
+/* colors: rgb, dark blue:(27, 73, 101) green: (38, 169, 108), light blue: (202, 233, 255), 
+red: (162, 103, 105), medium blue: (95, 168, 211) */
